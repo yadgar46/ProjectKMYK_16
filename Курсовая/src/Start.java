@@ -1,4 +1,4 @@
-package dfs;
+
 
 //импорт библиотек
 import java.awt.event.MouseAdapter;
