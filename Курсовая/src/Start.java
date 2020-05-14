@@ -1,4 +1,4 @@
-package dfs;
+
 
 //импорт библиотек
 import java.awt.event.MouseAdapter;
@@ -36,6 +36,7 @@ setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE); //действие при наж
  setContentPane(panel0);//настройка отображения 
  setSize(350, 150);
  setVisible(true);
+ 
  
  }
 public static void main(String[] args)
